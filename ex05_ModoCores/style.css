@@ -1,0 +1,25 @@
+/* Alterando cor por nome */
+.nome{
+    color: darkviolet;
+    background-color: black;
+}
+/* Alterando cor por hexadecimal */
+.hexadecimal{
+    color: #a0eef2;
+    background-color: #34361c;
+}
+/* Alterando cor por RGBA */
+.RGBA{
+    color: rgba(171, 5, 247, 0.9);
+    background-color: rgba(147, 255, 133, 0.3);
+}
+/* Alterando a segunda página */
+.t-bg{
+    color: indigo;
+    background-color: chocolate;
+}
+.d-bg{
+    background-image: url(clthanos.png);
+    height: 560px;
+    width: 1250px;
+}
