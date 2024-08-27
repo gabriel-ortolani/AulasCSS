@@ -1,0 +1,16 @@
+.position{
+    width: 100px;
+    height: 100px;
+    background-color: #FFD946;
+    border-bottom: 6px solid #FF6B83;
+    margin: 6px;
+}
+.static{
+    position: static;
+}
+.relative{
+    position: relative;
+    background-color: #060270;
+    top: 30px;
+    left: 20px;
+}
