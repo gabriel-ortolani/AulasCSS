@@ -7,3 +7,6 @@ Códigos:
  * ex05-Modo de cores
  * ex06-animação
  * ex07-animação em tempos
+ * ex08-borda, padding e margin
+ * ex09-static position
+ * ex10-relative position
