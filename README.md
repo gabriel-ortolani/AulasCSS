@@ -10,3 +10,6 @@ Códigos:
  * ex08-borda, padding e margin
  * ex09-static position
  * ex10-relative position
+ * ex11-absolute position
+ * ex12-fixed position
+ * ex13-sticky position
