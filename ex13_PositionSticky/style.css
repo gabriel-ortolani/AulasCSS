@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+.position{
+    width: 100px;
+    height: 700px;
+    background-color: #FFD946;
+    border-bottom: 6px solid #FF6B83;
+}
+/* parado em um lugar */
+.static{
+    position: static;
+}
+/* é relativo a algo, fica no flow do html e pode ser alterado com right, left, bottom ou top */
+.relative{
+    position: relative;
+    background-color: #060270;
+    top: 30px;
+    left: 20px;
+}
+/* fica em qualquer lugar, respeitando o local onde foi inserido */
+.absolute{
+    position: absolute;
+    background-color: #9CC8FF;
+    top: 0px;
+    right: 0px;
+    margin: 6px;
+}
+.mini-div{
+    width: 20px;
+    height: 20px;
+    top:0px;
+    right:100px;
+    border: solid #1F81FD;
+}
+/* fica fixo em uma parte da tela independente do que sejá feito e respeitando o tamanho da tela*/
+.fixed{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: #F3C9FF;
+    margin: 6px;
+    right: 10px;
+    bottom: 20px;
+}
+/*fica no flow até que sé role até passar dele e ele fica acompanhando o scroll fixado na tela */
+.sticky{
+    width: 1249px;
+    height: 50px;
+    background-color: #FF8B61;
+    position:sticky;
+    left: 200px;
+    top:0px;
+}
