@@ -1,0 +1,10 @@
+.posicao{
+    width: 100px;
+    height: 100px;
+    background-color: #FECC40;
+    border-bottom: 6px solid #5851FF;
+}
+.static{
+    border-right: 6px solid #98F5F9;
+    position: static;
+}
