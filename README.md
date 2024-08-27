@@ -6,3 +6,4 @@ Códigos:
  * ex04-Classe e id
  * ex05-Modo de cores
  * ex06-animação
+ * ex07-animação em tempos
