@@ -1,0 +1,37 @@
+body{
+    /* a margem da borda */
+    margin: 0px;
+}
+
+.boxmodel{
+    width: 200px;
+    height: 200px;
+    background-color: #77D3D6;
+    /* espaçamento depois do conteudo */
+    padding: 30px 30px;
+    /* borda do padding */
+    border: 3px solid #413AFC;
+    /* mudar somente uma borda especifica */
+    border-left: 5px double red;
+    border-right: 5px double red;
+    /* tornar a borda circular */
+    border-radius: 80px;
+    /* adicionando espaço */
+    margin: 30px;
+}
+.boxmodel2{
+    width: 200px;
+    height: 200px;
+    background-color: #E7DDFF;
+    /* espaçamento depois do conteudo */
+    padding: 30px 30px;
+    /* borda do padding */
+    border: 3px solid #DAAD01;
+    /* mudar somente uma borda especifica */
+    border-left: 5px double blue;
+    border-right: 5px double blue;
+    /* tornar a borda circular */
+    border-radius: 80px;
+    /* adicionando espaço */
+    margin: 30px;
+}
